@@ -1,0 +1,45 @@
+template_ai_file
+============================================
+
+Description:
+------------
+Template AI file for game Total Annihilation.
+No Weights and Limits for units are set.
+Each unit name and description by company Cavedog, 
+the creator of Total Annihilation.
+Several comments by me.
+
+
+Usage:
+------
+Copy this file and write a value to each Weight and Limit keyword, 
+separated by space.
+
+
+Requirements:
+-------------
+Knowledge of the game Total Annihilation and it's AI text file system.
+E.g. these web pages describe the AI text file system:
+http://aicentral.tauniverse.com/corinstallai.htm
+http://aicentral.tauniverse.com/corweightslimits.htm
+ .. I do not think the described unit-build probability calculations description is correct.
+
+
+Website:
+--------
+
+
+
+Contact:
+--------
+sentientfanda@gmail.com
+
+
+Notes:
+------
+
+
+License:
+--------
+Copyright (C) 2018 František Brožka
+
