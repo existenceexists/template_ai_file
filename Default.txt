@@ -472,6 +472,9 @@ Limit CORAVP
 // Adv. Aircraft Plant - Produces Aircraft
 Weight CORAAP 
 Limit CORAAP 
+// Adv. Shipyard - Produces Ships
+Weight CORASY 
+Limit CORASY 
 // Krogoth Gantry - Builds Krogoth
 Weight CORGANT 
 Limit CORGANT 
